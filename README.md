@@ -1,0 +1,1 @@
+# nginx-virtual-host-setting-for-reading-.htaccess-file
